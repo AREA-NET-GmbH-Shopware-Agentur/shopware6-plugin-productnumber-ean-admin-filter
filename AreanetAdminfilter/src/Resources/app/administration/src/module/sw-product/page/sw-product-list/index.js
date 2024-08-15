@@ -33,7 +33,7 @@ Component.override('sw-product-list', {
                 }
             });
 
-            filters.push(
+            filters.unshift(
                 eanFilter.at(0),
                 productnumberFilter.at(0)
             );
