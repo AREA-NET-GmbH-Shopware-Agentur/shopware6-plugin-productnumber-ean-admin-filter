@@ -1,0 +1,1 @@
+# shopware6-plugin-productnumber-ean-admin-filter

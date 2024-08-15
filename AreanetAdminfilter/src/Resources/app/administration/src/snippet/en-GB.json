@@ -1,0 +1,10 @@
+{
+  "productlist": {
+    "filter": {
+      "ean": "EAN",
+      "eanProperties": "enter EAN...",
+      "productNumber": "Productnumber",
+      "productNumberProperties": "enter productnumber..."
+    }
+  }
+}

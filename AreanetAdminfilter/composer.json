@@ -1,0 +1,26 @@
+{
+  "name": "areanet/adminfilter",
+  "version": "1.0.0",
+  "description": "filter for products in administration",
+  "type": "shopware-platform-plugin",
+  "license": "proprietary",
+  "autoload": {
+    "psr-4": {
+      "AreanetAdminfilter\\": "src/"
+    }
+  },
+  "require": {
+    "shopware/core": "6.6.*"
+  },
+  "extra": {
+    "shopware-plugin-class": "AreanetAdminfilter\\AreanetAdminfilter",
+    "label": {
+      "de-DE": "Admin Filter",
+      "en-GB": "Admin filter"
+    },
+    "manufacturerLink": {
+      "de-DE": "www.area-net.de",
+      "en-GB": "www.area-net.de"
+    }
+  }
+}

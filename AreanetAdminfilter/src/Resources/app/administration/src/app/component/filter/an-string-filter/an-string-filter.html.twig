@@ -1,0 +1,20 @@
+{% block an_string_filter %}
+    <div class="sw-boolean-filter">
+        <sw-base-filter
+            :title="filter.label"
+            :show-reset-button="!!value"
+            :active="active"
+            @filter-reset="resetFilter"
+        >
+            <!-- eslint-disable-next-line sw-deprecation-rules/no-twigjs-blocks -->
+            {% block sw_boolean_filter_content %}
+                <sw-text-field
+                        :value="value"
+                        :placeholder="filter.placeholder"
+                        @update:value="changeValue"
+                >
+                </sw-text-field>
+            {% endblock %}
+        </sw-base-filter>
+    </div>
+{% endblock %}
