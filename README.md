@@ -19,7 +19,7 @@ Stand 16.08.2024:
 - *Version 2:* Shopware 6.6.* (bis 6.6.5.1 getestet)
 - [CHANGELOG](AreanetAdminfilter/CH*ANGELOG.md)
 - [Download](https://github.com/AREA-NET-GmbH-Shopware-Agentur/shopware6-plugin-productnumber-ean-admin-filter/releases/)
-- 
+
 ## Hauptfunktionen des Plugins
 
 * **Wochenenden von der Lieferzeitberechnung ausschließen:** Vermeiden Sie falsche Lieferzeitangaben, indem Sie Samstage und/oder Sonntage von der Berechnung ausschließen. So erhalten Ihre Kunden realistische Lieferdaten, auch bei Bestellungen kurz vor dem Wochenende.
