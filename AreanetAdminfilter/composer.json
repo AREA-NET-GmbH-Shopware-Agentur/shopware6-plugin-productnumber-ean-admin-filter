@@ -3,20 +3,20 @@
   "version": "1.0.0",
   "description": "filter for products in administration",
   "type": "shopware-platform-plugin",
-  "license": "proprietary",
+  "license": "MIT",
   "autoload": {
     "psr-4": {
       "AreanetAdminfilter\\": "src/"
     }
   },
   "require": {
-    "shopware/core": "6.6.*"
+    "shopware/core": "6.5.* ||6.6.*"
   },
   "extra": {
     "shopware-plugin-class": "AreanetAdminfilter\\AreanetAdminfilter",
     "label": {
-      "de-DE": "Admin Filter",
-      "en-GB": "Admin filter"
+      "de-DE": "Produktnummer und EAN Filter in der Administration",
+      "en-GB": "Product number and EAN filter in the administration"
     },
     "manufacturerLink": {
       "de-DE": "www.area-net.de",
