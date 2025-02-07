@@ -14,17 +14,11 @@ Insgesamt bietet unser Plugin eine erhebliche Verbesserung der Produktverwaltung
 
 ## Unterstützte Shopware Versionen und Changelog
 
-Stand 16.08.2024:
-- *Version 1:* Shopware 6.5.* (bis  6.5.8.13 getestet)
-- *Version 2:* Shopware 6.6.* (bis 6.6.5.1 getestet)
+Stand 07.02.2025:
+- *Version 1:* Shopware 6.5.* (bis  6.5.8.18 getestet)
+- *Version 2:* Shopware 6.6.* (bis 6.6.6.0 getestet)
 - [CHANGELOG](AreanetAdminfilter/CH*ANGELOG.md)
 - [Download](https://github.com/AREA-NET-GmbH-Shopware-Agentur/shopware6-plugin-productnumber-ean-admin-filter/releases/)
-
-## Hauptfunktionen des Plugins
-
-* **Wochenenden von der Lieferzeitberechnung ausschließen:** Vermeiden Sie falsche Lieferzeitangaben, indem Sie Samstage und/oder Sonntage von der Berechnung ausschließen. So erhalten Ihre Kunden realistische Lieferdaten, auch bei Bestellungen kurz vor dem Wochenende.
-* **Automatische Standard-Lieferzeit für Produkte ohne spezifische Angabe:** Sparen Sie wertvolle Zeit und Nerven, indem das Plugin automatisch die Lieferzeit der Standard-Versandart des Verkaufskanals anzeigt, wenn bei einem Produkt keine spezifische Lieferzeit hinterlegt ist. Keine leeren Felder mehr – keine verwirrten Kunden!
-* **Erweiterte Lieferzeitangaben in E-Mail-Templates:** Verbessern Sie die Kommunikation mit Ihren Kunden! Unser Plugin stellt Ihnen zusätzliche Variablen für die exakten Lieferzeiten (sowohl für die gesamte Bestellung als auch für einzelne Positionen) in den Bestellbestätigungs-E-Mails zur Verfügung.
 
 ## Support
 
