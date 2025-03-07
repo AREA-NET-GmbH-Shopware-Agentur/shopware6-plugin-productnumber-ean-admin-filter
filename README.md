@@ -10,15 +10,23 @@ Insgesamt bietet unser Plugin eine erhebliche Verbesserung der Produktverwaltung
 * Zuverlässigkeit bei großen Produktbeständen
 * Verbesserte Benutzerfreundlichkeit
 
-![Optimierte Lieferzeitberechnung ohne Wochenende für Showpare 6](mkdocs/docs/images/shopware-6-plugin-produktnummer-ean-filter.png)
 
 ## Unterstützte Shopware Versionen und Changelog
 
 Stand 07.02.2025:
 - *Version 1:* Shopware 6.5.* (bis  6.5.8.18 getestet)
 - *Version 2:* Shopware 6.6.* (bis 6.6.6.0 getestet)
-- [CHANGELOG](AreanetAdminfilter/CH*ANGELOG.md)
-- [Download](https://github.com/AREA-NET-GmbH-Shopware-Agentur/shopware6-plugin-productnumber-ean-admin-filter/releases/)
+- [CHANGELOG](CHANGELOG.md)
+
+## Installation
+
+### ZIP-Release
+
+Download des entsprechenden ZIP-Files von der [Release-Seite](https://github.com/AREA-NET-GmbH-Shopware-Agentur/shopware6-plugin-productnumber-ean-admin-filter/releases) und Installation/Upload in der Shopware-Administration unter Erweiterungen.
+
+### Composer (ab Shopware 6.6)
+
+`composer require areanet/adminfilters`
 
 ## Support
 

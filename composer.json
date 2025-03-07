@@ -9,8 +9,14 @@
       "AreanetAdminfilter\\": "src/"
     }
   },
+  "authors": [
+    {
+      "name": "AREA-NET GmbH",
+      "homepage": "https://www.area-net.de"
+    }
+  ],
   "require": {
-    "shopware/core": "6.5.* ||6.6.*"
+    "shopware/core": "~6.5.0 || ~6.6.0"
   },
   "extra": {
     "shopware-plugin-class": "AreanetAdminfilter\\AreanetAdminfilter",
@@ -19,8 +25,12 @@
       "en-GB": "Product number and EAN filter in the administration"
     },
     "manufacturerLink": {
-      "de-DE": "www.area-net.de",
-      "en-GB": "www.area-net.de"
+      "de-DE": "https://www.area-net.de",
+      "en-GB": "https://www.area-net.de"
+    },
+    "supportLink": {
+      "de-DE": "https://github.com/AREA-NET-GmbH-Shopware-Agentur/shopware6-plugin-canonical-variants/issues",
+      "en-GB": "https://github.com/AREA-NET-GmbH-Shopware-Agentur/shopware6-plugin-canonical-variants/issues"
     }
   }
 }
