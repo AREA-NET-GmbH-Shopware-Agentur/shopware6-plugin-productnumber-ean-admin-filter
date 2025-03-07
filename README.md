@@ -13,9 +13,9 @@ Insgesamt bietet unser Plugin eine erhebliche Verbesserung der Produktverwaltung
 
 ## Unterstützte Shopware Versionen und Changelog
 
-Stand 07.02.2025:
+Stand 07.03.2025:
 - *Version 1:* Shopware 6.5.* (bis  6.5.8.18 getestet)
-- *Version 2:* Shopware 6.6.* (bis 6.6.6.0 getestet)
+- *Version 2:* Shopware 6.6.* (bis 6.6.10.2 getestet)
 - [CHANGELOG](CHANGELOG.md)
 
 ## Installation
