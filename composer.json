@@ -1,6 +1,6 @@
 {
   "name": "areanet/adminfilter",
-  "version": "1.0.0",
+  "version": "2.1.0",
   "description": "filter for products in administration",
   "type": "shopware-platform-plugin",
   "license": "MIT",
@@ -16,7 +16,7 @@
     }
   ],
   "require": {
-    "shopware/core": "~6.5.0 || ~6.6.0"
+    "shopware/core": "~6.6.0"
   },
   "extra": {
     "shopware-plugin-class": "AreanetAdminfilter\\AreanetAdminfilter",
